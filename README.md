@@ -10,4 +10,4 @@ RECAPP/Supporting Files/recapp_configuration.plist
 Also ensure that an associated bundle identifier is included with your available iOS developer/distribution account.
 
 ### Development & Attribution
-The RECAPP Framework was developed by Lancaster University and Essex University as part of the EU funded [RECALL Project] (http://recall-fet.eu).The Recall project acknowledges the financial support of the Future and Emerging Technologies (FET) programme within the 7th Framework Programme for Research of the European Commission, under FET grant number: 612933. We kindly ask that any re-use of the RECAPP codebase as part of an application or future research is clearly attributed.   
+The RECAPP Framework was developed by Lancaster University and Essex University as part of the EU funded [RECALL Project](http://recall-fet.eu) . The Recall project acknowledges the financial support of the Future and Emerging Technologies (FET) programme within the 7th Framework Programme for Research of the European Commission, under FET grant number: 612933. We kindly ask that any re-use of the RECAPP codebase as part of an application or future research is clearly attributed.   
